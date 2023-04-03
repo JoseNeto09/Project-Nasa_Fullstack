@@ -1,0 +1,1 @@
+{"version":"1.0.0","name":"nasa-project-api","dependencies":{"cors":{"version":"2.8.5"},"csv-parse":{"version":"5.3.6"},"express":{"version":"4.18.2"}}}
