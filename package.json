@@ -11,12 +11,15 @@
     "client": "npm start --prefix client",
     "watch": "npm run server & npm run client",
     "deploy": "npm run build --prefix client && npm run start --prefix server",
-    "test": "npm run test --prefix server && npm run teste --prefix client"
+    "test": "npm test --prefix server && npm teste --prefix client"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
     "morgan": "^1.10.0"
+  },
+  "devDependencies": {
+    "jest": "^29.5.0"
   }
 }
