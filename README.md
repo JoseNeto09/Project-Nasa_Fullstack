@@ -4,7 +4,7 @@ FrontEnd react, BackEnd nodejs.
 
 FrontEnd
   ReactJs
-    Biblioteca front-end Javascript de codigo aberto com foto em criar Interfaces de usuario web.
+    Biblioteca front-end Javascript de codigo aberto com foco em criar Interfaces de usuario web.
     
   @ARWES/CORE
     Conjunto principal de Componentes do framework,Ele contém os principais componentes para construir uma interface de usuario Arwes Padrão.
